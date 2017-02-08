@@ -33,7 +33,7 @@ data = {
         {
             'index': 1,
             'text': ul_rate,
-            'icon': ul_rate
+            'icon': ul_icon
         }
     ]
 }
