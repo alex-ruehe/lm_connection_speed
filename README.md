@@ -4,6 +4,8 @@ Python script that displays Down/Upload-Speed using speedtest-cli on your LaMetr
 
 #####Instructions:
 
+For a more detailed tutorial, have a look [at this blog post](https://blog.aruehe.io/show-download-and-upload-speed-on-your-lametric-time/).
+
 You need to create an indicatior app for your LaMetric time [in the developer area](https://developer.lametric.com). It needs to be a private push app with two text frames. After publishing it, copy the access token and the local push url. Install the app on your device using the LaMetric smartphone app.
 
 Insert access token and local push url into the connection_speed.py (look for `"ENDPOINT_URL"` and `"YOUR ACCESS TOKEN"`).
